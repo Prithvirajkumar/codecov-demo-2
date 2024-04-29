@@ -1,5 +1,3 @@
-# codecov-demo
+[![codecov](https://codecov.io/gh/Prithvirajkumar/codecov-demo-2/graph/badge.svg?token=EEKtutR5RG)](https://codecov.io/gh/Prithvirajkumar/codecov-demo-2)
 
-This repository is meant to show the features and functionalities of Codecov. You can follow along [here](https://docs.codecov.com/docs/codecov-tutorial).
-
-hello
+Attempt 568, Let's hope this works!
